@@ -16,6 +16,7 @@ public class ReverseArrayList {
     // Method to reverse the ArrayList
     static void reverseArrayList(ArrayList<Integer> list) {
         // Write your code here
+	System.out.println("Reversing the Array");
         for(int i = list.size()-1;i>=0;i--)
         {
             System.out.print(list.remove(i)+" ");

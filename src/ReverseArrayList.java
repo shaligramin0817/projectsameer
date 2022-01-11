@@ -1,4 +1,5 @@
 import java.util.*;
+//this program is prints reverse array
 
 public class ReverseArrayList {
     public static void main(String args[]) {
